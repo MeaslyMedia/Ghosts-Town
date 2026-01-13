@@ -29,11 +29,10 @@ Actual Play Podcast,Horror,Comedy,Monster Of The Week,
 <itunes:category text="Games"></itunes:category>
 
 <item>
-<title>EPISODE TITLE</title>
-<itunes:title>EPISODE TITLE</itunes:title>
+<title>RSS TEST</title>
+<itunes:title>RSS TEST</itunes:title>
 <itunes:author>MeaslyMedia</itunes:author>
 <itunes:subtitle>
-EPISODE SUBTITLE
 </itunes:subtitle>
 <itunes:summary>
 <![CDATA[
@@ -66,16 +65,16 @@ Complete <a href=”https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-
 EPISODE DESCRIPTION
 ]]>
 </description>
-<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
 <enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
-<itunes:duration>DURATION</itunes:duration>
-<itunes:season>SEASON #1</itunes:season>
-<itunes:episode>EPISODE #1</itunes:episode>
+<itunes:duration>01:28:58</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://LOCATION OF MP3.MP3
 </guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
+<pubDate>12 01 2026</pubDate>
 <itunes:explicit>YES</itunes:explicit>
 </item>
 
@@ -83,4 +82,5 @@ https://LOCATION OF MP3.MP3
 
 </channel>
 </rss>
+
 
