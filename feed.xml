@@ -62,7 +62,7 @@ Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/w
 ]]>
 </description>
 <itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<enclosure url="https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>01:28:58</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
@@ -71,13 +71,14 @@ Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/w
 https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 </guid>
 <pubDate>12 01 2026</pubDate>
-<itunes:explicit>YES</itunes:explicit>
+<itunes:explicit>yes</itunes:explicit>
 </item>
 
 
 
 </channel>
 </rss>
+
 
 
 
