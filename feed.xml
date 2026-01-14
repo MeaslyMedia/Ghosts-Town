@@ -20,7 +20,7 @@
   <itunes:name>MeaslyMedia</itunes:name>
   <itunes:email>measlymedia@proton.me</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://measlymedia.github.io/GhostsTown/GTpodcastcoverart.jpg"/>
+  <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art.jpg"/>
 
 <itunes:category text="Fiction"> <itunes:category text="Comedy Fiction" /></itunes:category>
 <itunes:category text="Comedy"> <itunes:category text="Improv" /></itunes:category>
@@ -81,6 +81,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
