@@ -62,7 +62,7 @@ Full vod: <a href="https://www.youtube.com/watch?v=JutU7U3_yms" target="_blank">
 Complete Surf & Turf playlist (the previous campaign): <a href="https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C" target="_blank">https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C</a>
 </p>
 <p>
-Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources</a>  
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>  
 </p>
 ]]>
 </description>
@@ -83,6 +83,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
